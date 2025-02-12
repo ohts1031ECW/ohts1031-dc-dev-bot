@@ -1,0 +1,9 @@
+{
+    "serverStatus": {
+        "GuildID":"your guild GuildID",
+        "BOT": "bot count channel id",
+        "User": "user count channel id",
+        "All": "member count channel id"
+    },
+    "prefix":"bot prefix"
+}

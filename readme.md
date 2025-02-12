@@ -1,0 +1,1 @@
+ohts1031ECWのdiscordサーバー用bot
